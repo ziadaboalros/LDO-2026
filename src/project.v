@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module LDO-2026 (
+module tt_um_LDO-2026 (
     input  wire       VGND,
     input  wire       VDPWR,    // 1.8v power supply
 //    input  wire       VAPWR,    // 3.3v power supply
